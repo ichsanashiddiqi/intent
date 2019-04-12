@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Intent</string>
+    <string name="editText_nama">Nama</string>
+    <string name="editText_alamat">Alamat</string>
+    <string name="editText_nohp">Nomer Telepon</string>
+    <string name="button_main">Registrasi</string>
+    <string name="activity_main2">Second Activity</string>
+    <string name="text_header">REGISTRASI ATAS NAMA :</string>
+    <string name="button_share">SHARE</string>
+</resources>
